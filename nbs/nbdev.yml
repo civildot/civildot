@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "civildot"
+  site-url: "https://civildot.github.io/civildot"
+  description: "An all-encompassing civil engineering library for terrain modelling, platforms, roads and earthworks."
+  repo-branch: main
+  repo-url: "https://github.com/civildot/civildot"
